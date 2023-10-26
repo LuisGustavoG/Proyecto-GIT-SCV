@@ -11,5 +11,25 @@ p {
 img {
     max-width: 25%;
 }
+/* Cambiar el color de fondo */
+body {
+    background-color: yellow;
+}
+
+/* Cambiar el color del texto */
+p {
+    color: #333333;
+}
+
+/* Cambiar el color de los enlaces */
+a {
+    color: #0078D4;
+}
+
+/* Cambiar el color de los botones */
+.boton {
+    background-color: #FF5722;
+    color: white;
+}
 
 
