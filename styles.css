@@ -1,0 +1,15 @@
+/* styles.css */
+h1 {
+    color: red;
+}
+
+p {
+    font-size: 25px;
+    line-height: 1.5;
+}
+
+img {
+    max-width: 25%;
+}
+
+
